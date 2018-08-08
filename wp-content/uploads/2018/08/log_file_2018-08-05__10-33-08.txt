@@ -1,0 +1,23 @@
+
+---Upload files---
+Content file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Widget file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://jaradeh.com
+Data file = not defined!
+Widget file = not defined!
+Customizer file = C:\wamp\www\jaradeh.com/wp-content/uploads/2018/08/one-click-demo-import.2.5.0.zip
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.

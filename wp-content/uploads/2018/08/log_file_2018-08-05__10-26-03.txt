@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://jaradeh.com
+Data file = C:\wamp\www\jaradeh.com/wp-content/themes/start-magazine/demo/content.xml
+Widget file = C:\wamp\www\jaradeh.com/wp-content/themes/start-magazine/demo/widget.wie
+Customizer file = C:\wamp\www\jaradeh.com/wp-content/themes/start-magazine/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+SM: Recent Posts Extended - HEADLINES - Imported
+SM: Tabbed - No Title - Imported
+SM: Social - Follow Us: - Imported
+Gallery - Gallery - Imported
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Front Page Top Widget Area : 
+
+SM: Posts Slider - No Title - Imported
+SM: News Block - POPULAR NEWS - Imported
+SM: News Block - Fashion - Imported
+
+Front Page Main Widget Area : 
+
+SM: News Block - BUSINESS - Imported
+SM: Posts Slider - RECENT HIGHLIGHT - Imported
+SM: News Block - THE WORLD - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
